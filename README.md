@@ -1,3 +1,3 @@
 # Vue-Parallax-Depth-Cards
 
-![Preview](parallax.png?raw=true)
+![Preview](parallax.PNG?raw=true)
